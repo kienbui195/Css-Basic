@@ -1,0 +1,36 @@
+h2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: "Times New Roman";
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    font-size: 25px;
+    font-family: Arial;
+}
+
+li {
+
+    list-style-position: inside;
+    text-align: justify;
+    text-shadow: black;
+}
+
+p {
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 20px;
+    font-family: "UVN Anh Hai";
+}
+
+#chuong1, #chuong2, #chuong3, #chuong4, #chuong5, #chuong6 {
+    color: red;
+    text-align: left;
+    font-family: Antique;
+}
+
+img {
+    text-align: center;
+}
