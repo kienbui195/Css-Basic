@@ -1,0 +1,21 @@
+#head {
+
+    text-align: left;
+    font-family: "Times New Roman";
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: Arial;
+    color: black;
+}
+
+.vanban {
+    text-indent: 30px;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 22px;
+    user-select: none;
+}
